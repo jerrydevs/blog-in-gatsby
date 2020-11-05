@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 import PostPreview from '../components/post-preview';
 import usePosts from '../hooks/usePosts';
 import Hero from '../components/hero';
